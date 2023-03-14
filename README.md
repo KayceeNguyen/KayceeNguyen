@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm KCWIN</h1>
 <h3 align="center">I'm a designer who crafts designs that not only look good but also effectively communicate ideas and solve problems. I specialize in graphic design, UX/UI design, and motion design.</h3>
 
+- 🔭 I’m currently working on [Found App](https://github.com/CanSanchez/foundproject.git)
+
+- 🌱 I’m currently learning **Blender, Adobe Dimension**
+
 - 👨‍💻 All of my projects are available at [https://www.kayceewin.ca/portfolio](https://www.kayceewin.ca/portfolio)
 
 - 💬 Ask me about **Adobe Create Suite**
@@ -14,9 +18,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kayceewin99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kayceewin99" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kaycee nguyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaycee nguyen" height="30" width="40" /></a>
-<a href="https://www.behance.net/kaycee win" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kaycee win" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kaycee win" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kaycee win" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kayceenguyen99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kayceenguyen99" height="30" width="40" /></a>
+<a href="https://www.behance.net/kayceewin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kayceewin" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/kayceewin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kayceewin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
